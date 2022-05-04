@@ -11,4 +11,4 @@ class test4_class:
         print(self.a)
 
     def _print_b(self):
-        print(self.b)
+        print(f'b is {self.b}')
